@@ -1,4 +1,4 @@
-### Web Scrapting Worldwide Steel Suppliers Database
+### Web Scrapting - Worldwide Steel Suppliers Database
 
 I wanted to create a dataset for steel production around the world that includes suppliers and their information.
 
